@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55.933903mm"
+   height="54.000595mm"
+   viewBox="0 0 198.191 191.34069"
+   id="svg3668"
+   version="1.1"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="os_devuan.svg">
+  <title
+     id="title3714">Devuan Logo</title>
+  <defs
+     id="defs3670" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1910325"
+     inkscape:cx="-101.51144"
+     inkscape:cy="128.41503"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="1050"
+     inkscape:window-x="1680"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata3673">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Devuan Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>hellekin</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Dyne.org Foundation</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>hellekin, golinux, Centurion_Dan</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-461.83765,-385.26329)">
+    <path
+       sodipodi:nodetypes="ccssscsc"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57134259;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 461.83765,385.26329 c 351.11154,83.78964 18.96795,151.92346 18.96795,151.92346 -6.54355,1.04566 -11.8218,4.45425 -14.99949,9.63398 -3.56969,5.81872 -3.87218,13.6808 -0.53871,19.20842 4.05626,6.72618 9.1957,9.05293 13.62832,10.05499 6.97389,1.57656 12.60306,-0.93571 12.60306,-0.93571 0,0 169.79909,-50.45979 168.5227,-100.86283 -0.64075,-25.303 -52.0661,-68.10192 -198.18383,-89.02231 z"
+       id="path4338"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#7b7691;stroke-width:0.84;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       d="m 18.315263,203.09451 c -4.796246,-1.17663 -7.542526,-2.84687 -11.0322954,-6.70963 -5.3861454,-5.96182 -6.78101453,-11.93918 -4.5352768,-19.43479 1.233893,-4.11836 6.4051937,-10.0852 10.3719742,-11.96756 1.65409,-0.78492 10.070595,-3.09955 18.703343,-5.14362 74.801032,-17.71154 125.631202,-41.4379 137.524762,-64.193424 2.05828,-3.93802 2.40061,-5.550848 2.40061,-11.309859 0,-5.764733 -0.34178,-7.37145 -2.41111,-11.334704 C 166.24158,67.071953 156.83743,57.73963 148.27183,52.096371 140.5055,46.97969 118.31598,35.937588 106.71125,31.414704 85.88529,23.297892 56.953372,14.111258 29.047546,6.7544627 22.120783,4.9283646 17.063078,3.4071053 17.808199,3.3738864 19.877391,3.281638 45.938534,8.0915681 58.774331,10.93473 112.05466,22.736461 152.28208,37.683268 180.17692,56.042807 c 11.51819,7.580921 23.51673,19.616156 27.35192,27.435558 5.35987,10.92802 3.6711,21.378165 -5.34699,33.087375 -7.87744,10.22817 -27.67651,24.96111 -49.20245,36.61264 -26.8276,14.52121 -70.757867,32.59797 -109.823678,45.19108 -15.796156,5.09199 -20.047999,5.90076 -24.840459,4.72505 z"
+       id="path60"
+       transform="matrix(0.93749999,0,0,0.93749999,461.83765,385.26329)" />
+    <path
+       style="fill:#7b7691;fill-opacity:1;stroke-width:0.70527;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 17.09493,202.35407 C 9.0995652,199.77271 2.1721512,191.08083 2.184784,183.6462 c 0.012443,-7.32273 5.3073638,-15.31189 12.169629,-18.36196 1.847136,-0.82099 12.476436,-3.77691 23.620665,-6.5687 72.764032,-18.22843 119.597422,-40.40092 131.160692,-62.095824 2.38023,-4.46578 2.64508,-5.689282 2.64508,-12.219625 0,-8.628906 -1.59164,-12.430262 -8.36092,-19.968623 C 156.3597,56.569091 147.00847,50.209282 129.99925,41.701928 107.35076,30.374024 86.249344,22.629614 47.099111,11.276835 36.939858,8.3308568 29.256966,5.9006658 30.026018,5.8764109 30.795068,5.8521564 38.918272,7.3644907 48.077582,9.2371544 106.88282,21.26016 150.89825,37.174087 181.01653,57.301678 c 8.45825,5.652519 22.6622,19.895972 25.5393,25.610329 6.58077,13.070388 3.91693,24.077113 -9.15943,37.845873 -21.35033,22.48082 -69.71055,47.68626 -136.023959,70.89593 -30.073311,10.52565 -38.506199,12.56357 -44.277511,10.70026 z"
+       id="path885"
+       transform="matrix(0.93749999,0,0,0.93749999,461.83765,385.26329)" />
+  </g>
+</svg>
